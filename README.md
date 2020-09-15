@@ -7,14 +7,14 @@ For this project, I will be using Logistic Regression, K-Nearest Neighbors, Supp
 
 ## Result
 
-Logistic Regression has 93% accuracy score
+Logistic Regression has **93% accuracy score**
 
-K-Nearest Neighbors Classifier has 94% accuracy score
+K-Nearest Neighbors Classifier has **94% accuracy score**
 
-Support Vector Classifier has 93% accuracy score
+Support Vector Classifier has **93% accuracy score**
 
-Decision Tree Classifier has 93% accuracy score
+Decision Tree Classifier has **93% accuracy score**
 
-Random Forest Classifier has 92% accuracy score
+Random Forest Classifier has **92% accuracy score**
 
 #### Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
