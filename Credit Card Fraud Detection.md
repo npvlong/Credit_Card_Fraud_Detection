@@ -446,7 +446,7 @@ plt.ylabel("Frequency");
 ```
 
 
-![png](output_4_0.png)
+<img src = "Images/output_4_0.png" width = "800">
 
 
 
@@ -483,7 +483,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+<img src = "Images/output_6_0.png" width = "800">
 
 
 
@@ -508,7 +508,7 @@ f.text(0.06, 0.5, 'Amount', va='center', rotation='vertical')
 
 
 
-![png](output_7_1.png)
+<img src = "Images/output_7_1.png" width = "800">
 
 
 
@@ -526,7 +526,7 @@ sns.heatmap(correlation_matrix,vmax=0.8,square = True)
 
 
 
-![png](output_8_1.png)
+<img src = "Images/output_8_1.png" width = "800">
 
 
 # Prepare the Data
@@ -795,7 +795,7 @@ sns.heatmap(correlation_matrix_sub,cmap='coolwarm_r',vmax=0.8,square = True)
 
 
 
-![png](output_18_1.png)
+<img src = "Images/output_18_1.png" width = "800">
 
 
 # Models Training
@@ -952,7 +952,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+<img src = "Images/output_26_0.png" width = "800">
 
 
 # Results
