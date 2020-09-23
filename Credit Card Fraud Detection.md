@@ -446,7 +446,7 @@ plt.ylabel("Frequency");
 ```
 
 
-<img src = "Images/output_4_0.png" width = "800">
+<img src = "Images/output_4_0.png" width = "400">
 
 
 
