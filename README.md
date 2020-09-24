@@ -273,10 +273,8 @@ print('Fraud:', round(df['Class'].value_counts()[1],2),
       'cases, which is',round(df['Class'].value_counts()[1]/len(df) * 100,2), '% of the dataset')
 ```
 
-    Normal: 284315 cases, which is 99.83 % of the dataset
-    Fraud: 492 cases, which is 0.17 % of the dataset
-    
-
+Normal: 284315 cases, which is 99.83 % of the dataset
+Fraud: 492 cases, which is 0.17 % of the dataset
 
 ```python
 Fraud = df[df['Class']==1]
@@ -361,23 +359,6 @@ df.drop(['Time','Amount'], axis=1, inplace=True)
 df.head()
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
