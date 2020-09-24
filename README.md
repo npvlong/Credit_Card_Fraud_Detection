@@ -274,6 +274,7 @@ print('Fraud:', round(df['Class'].value_counts()[1],2),
 ```
 
 Normal: 284315 cases, which is 99.83 % of the dataset
+
 Fraud: 492 cases, which is 0.17 % of the dataset
 
 ```python
