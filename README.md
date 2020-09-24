@@ -517,6 +517,7 @@ df.head()
 
 ### Create a sub-sample using the UnderSampling method 
 
+We can see that this is a heavily unbalanced dataset. Thus, by using the UnderSampling method, I will create a sub-sample from the original dataset with all 492 fraud cases and 492 randomly choosen normal cases
 
 ```python
 #slicing
